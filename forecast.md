@@ -1,0 +1,5 @@
+# Forecast init
+
+##Today
+
+rain :(
